@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\INPCheck\INPCheck\bin\Debug\INPCheck.exe.config
+C:\Users\admin\source\repos\INPCheck\INPCheck\bin\Debug\INPCheck.exe
+C:\Users\admin\source\repos\INPCheck\INPCheck\bin\Debug\INPCheck.pdb
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.Form1.resources
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.Properties.Resources.resources
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.exe
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.pdb
+C:\Users\admin\source\repos\INPCheck\INPCheck\obj\Debug\INPCheck.Form2.resources
